@@ -1,35 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2C5A6E&center=true&vCenter=true&width=500&lines=Ivan+Flores;Ingeniero+Informático;Full+Stack+Developer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Laravel%20%7C%20Django-2C5A6E?style=for-the-badge&logo=node.js&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Frontend-Vue.js%20%7C%20Angular%20%7C%20React-2C5A6E?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Ionic-2C5A6E?style=for-the-badge&logo=flutter&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20MongoDB-2C5A6E?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%20%7C%20Docker-2C5A6E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:ivanflores51987@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ivanflores51987%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ivan51987">
-    <img src="https://img.shields.io/badge/GitHub-@ivan51987-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ivan-flores-flores">
-    <img src="https://img.shields.io/badge/LinkedIn-Ivan%20Flores-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-
 ## 👨‍💻 Sobre mí
 
 Ingeniero Informático con sólida experiencia en desarrollo de software, especializado en **sistemas escalables**, **APIs robustas** y **arquitectura limpia**. Apasionado por construir soluciones tecnológicas eficientes que combinan las mejores prácticas del backend con experiencias frontend modernas.
