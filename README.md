@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Ivan</h1>
 
-<!--
-**ivan51987/ivan51987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Desarrollador | 🚀 Aprendiendo todos los días
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 🔭 Actualmente trabajando en proyectos backend
+- 🌱 Aprendiendo Node.js y bases de datos
+- ⚡ Me gusta crear APIs y automatizar cosas
+
+---
+
+## 🛠️ Tecnologías
+<p>
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git,github" />
+</p>
+
+---
+
+## 📊 Estadísticas
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ivan51987&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Racha
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ivan51987&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Contacto
+- 📧 Email: tuemail@gmail.com
+- 💼 LinkedIn: (pon tu link)
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!
